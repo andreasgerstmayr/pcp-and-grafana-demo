@@ -1,0 +1,7 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+
+192.168.122.100 collector.local
+192.168.122.101 node1.local
+192.168.122.102 node2.local
+192.168.122.103 node3.local
